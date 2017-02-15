@@ -8,6 +8,6 @@ namespace TestConsoleApp
 {
     class Change
     {
-       // Create class
+       // Create class for GIT
     }
 }
