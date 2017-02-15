@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace TestConsoleApp
 {
-    class Program
+    class Change
     {
-        static void Main(string[] args)
-        {
-        }
+       // Create class
     }
 }
